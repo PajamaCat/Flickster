@@ -1,0 +1,14 @@
+{
+  "package": "com.airbnb.jiafang_jiang.flickster.models",
+  "imports": "com.airbnb.jiafang_jiang.flickster.models.Movie",
+  "props": {
+    "int": [
+      "page",
+      "totalPages",
+      "totalResults"
+    ],
+    "List<Movie>": [
+      "results"
+    ]
+  }
+}

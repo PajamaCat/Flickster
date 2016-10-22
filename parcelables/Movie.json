@@ -1,0 +1,31 @@
+{
+  "package": "com.airbnb.jiafang_jiang.flickster.models",
+  "props": {
+    "String": [
+      "posterPath",
+      "backdropPath",
+      "overview",
+      "originalTitle",
+      "originalLanguage",
+      "title", "snippetText", "snippetImageUrl"
+    ],
+    "boolean": [
+      "adult",
+      "video"
+    ],
+    "Date": [
+      "releaseDate"
+    ],
+    "List<Integer>": [
+      "genreIds"
+    ],
+    "int": [
+      "id",
+      "voteCount"
+    ],
+    "double":[
+      "popularity",
+      "voteAverage"
+    ]
+  }
+}
