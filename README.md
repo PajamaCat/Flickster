@@ -43,13 +43,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/PajamaCat/Flickster/blob/master/FlicksterWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Due to time constraint, I'm unable to finish all optionals and stretches while attending conference. I'll try to add more into it this weekend :)
+
+Also I was trying to add Icepick into the project but didn't succeed in makeing it workable with Gradle.
 
 ## Open-source libraries used
 
